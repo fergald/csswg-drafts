@@ -23,6 +23,10 @@ spec:infra;
 Introduction {#intro}
 =====================
 
+foo
+foo
+foo
+
 Issue: This spec is intentionally a rough sketch at the moment.
 It should contain all the details necessary to evaluate the proposal,
 but is intentionally avoiding precise algorithms at the moment,
