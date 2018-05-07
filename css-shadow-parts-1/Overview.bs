@@ -129,7 +129,7 @@ which is an <a>ordered map</a>,
 with keys that are tokens
 and values that are [=ordered sets=] of tokens.
 
-Each <a>shadow root</a> has a <dfn export for="shadow root">shadow part element map</dfn>
+Each <a>shadow root</a> can be thought of as having a <dfn export for="shadow root">shadow part element map</dfn>
 with keys that are [=strings=]
 and values that are [=ordered sets=] of elements.
 
