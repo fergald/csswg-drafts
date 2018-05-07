@@ -118,7 +118,7 @@ as authors can use ''::part()'' without fear of accidental over-styling.
 
 Exposing a Shadow Element: {#exposing}
 =============================================================
-Elements in a <a>shadow tree</a> may be exposed for style by stylesheets outside the tree
+Elements in a <a>shadow tree</a> may be exposed for styling by stylesheets outside the tree
 using the part and partmap attributes.
 
 Each element has a <dfn export for="element">part name list</dfn>
