@@ -137,7 +137,7 @@ The shadow part element map is described
 only as part of the algorithm for calculating style in this spec.
 It is not exposed via the DOM,
 as calculating it may be expensive
-and doing so could allow access to elements inside closed shadow roots.
+and exposing it could allow access to elements inside closed shadow roots.
 
 Shadow part element maps are affected by the addition and removal of elements
 and changes to the part name lists and part name maps of elements in the DOM.
